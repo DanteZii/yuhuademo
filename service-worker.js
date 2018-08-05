@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "58550f969d68cf7fe2159094a637cd83"
+    "revision": "3b1bb6618b000e6627511f7b3385053d"
   },
   {
     "url": "assets/css/0.styles.f69707d8.css",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "revision": "98d09cde1a80697a3e7d95d4bcf4e84f"
   },
   {
-    "url": "assets/js/7.ed33a8c4.js",
-    "revision": "48375a62bd397760c44dbe065b5b0b4d"
+    "url": "assets/js/7.828ba695.js",
+    "revision": "e9e57235b9d3dd8546970c8aeab41c89"
   },
   {
     "url": "assets/js/8.4c87020b.js",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "revision": "82a54bc452591331f9da7a335830d3d4"
   },
   {
-    "url": "assets/js/app.d52dfcdb.js",
-    "revision": "14ce6c52728ce6afe89a69e4dca00c01"
+    "url": "assets/js/app.91057796.js",
+    "revision": "e248e6f0018461eaf04bde1e79fcb8df"
   },
   {
     "url": "assets/js/vendors~docsearch.81719de9.js",
@@ -89,15 +89,15 @@ self.__precacheManifest = [
   },
   {
     "url": "Demo/A.html",
-    "revision": "785e4c9d1677b8f721f77d1098acf400"
+    "revision": "ea11029eacec71c54cfffb4f0cda8598"
   },
   {
     "url": "Demo/B.html",
-    "revision": "f9e4677c004bb3add2c78f053751d0ed"
+    "revision": "6b37f4d8ac6dca8d40faa4089837ae27"
   },
   {
     "url": "Demo/REDME.html",
-    "revision": "97589ccfdda8861954d49ae9b737060b"
+    "revision": "ebd148f66a661e0453478deb3aed0706"
   },
   {
     "url": "hero.png",
@@ -117,31 +117,31 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c752765957bf848fc7b07ab100189a6e"
+    "revision": "6b96647d19ffdfe3604d9ffe8488151f"
   },
   {
     "url": "Product/greens.html",
-    "revision": "2142d2ba3591359712c556f90614dd6e"
+    "revision": "fa879f16f05ae69d45231d3fe6d3770f"
   },
   {
     "url": "Product/index.html",
-    "revision": "10a279ce49fe3e597ec6e1d2fc90f741"
+    "revision": "d33756e46c11f3157d4438625abbae81"
   },
   {
     "url": "Product/one.html",
-    "revision": "4acefc18207d93abeeece7151082e5a1"
+    "revision": "d30a9c205f60f212e68a35b2673d2e29"
   },
   {
     "url": "zh/index.html",
-    "revision": "a7255bbf8bd5a21499ffff3c17af3582"
+    "revision": "95219bc65a21675528130178b83aa711"
   },
   {
     "url": "zh/Product/index.html",
-    "revision": "bac7feae2f327a5489ef262c33ed51e6"
+    "revision": "62399a93c7a2e4d57729a3b893985778"
   },
   {
     "url": "zh/Product/one.html",
-    "revision": "0f8b31402edd91e48f915f5081d6b2ff"
+    "revision": "259dfe324c521a5d5e3c3a3021a6f3df"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
